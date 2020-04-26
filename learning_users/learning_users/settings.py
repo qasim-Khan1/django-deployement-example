@@ -27,8 +27,7 @@ SECRET_KEY = 'm9$m(rec(jb6+47@dv$^y$5l0b!jb(6*du5nbl!4t!zah9f7uu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['alphax.pythonanywhere.com']
 
 # Application definition
 
